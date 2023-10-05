@@ -22,8 +22,8 @@
         return norma
 
     # Teste
-     matriz = np.array([[1, 2], [3, 4]])
-     p = 2
+    matriz = np.array([[1, 2], [3, 4]])
+    p = 2
 
     resultado = norm_p_matriz_2por2(matriz, p)
 
