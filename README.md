@@ -22,9 +22,9 @@
         return norma
 
     # Teste
-        matriz = np.array([[1, 2], [3, 4]])
-        p = 2
+     matriz = np.array([[1, 2], [3, 4]])
+     p = 2
 
-        resultado = norm_p_matriz_2por2(matriz, p)
+    resultado = norm_p_matriz_2por2(matriz, p)
 
-        print("A norma-{} da matriz 2x2 de entrada é".format(p), resultado)
+    print("A norma-{} da matriz 2x2 de entrada é".format(p), resultado)
